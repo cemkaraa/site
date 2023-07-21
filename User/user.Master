@@ -1,0 +1,252 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="user.master.cs" Inherits="Bitirme_Restoran.User.user" %>
+
+<%@ Register Src="~/User/HomeUserControl.ascx" TagPrefix="uc1" TagName="HomeUserControl" %>
+
+<%@ Import Namespace="Bitirme_Restoran" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ceka</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-..."' crossorigin="anonymous">
+ <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <link rel="stylesheet" type="text/css" href="../Template/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="../Template/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="../Template/images/logo.png" type="">
+
+
+    <script src="../Template/js/jquery-3.4.1.min.js"></script>
+
+
+    <script>
+        $(function () {
+            var url = window.location.href;
+
+            $("#navbarSupportedContent a").each(function () {
+
+                if (url == (this.href)) {
+                    $(this).closest("li").addClass("active");
+                }
+            });
+        });
+
+
+    </script>
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <header>
+
+
+            <div class="header-left">
+                <div class="logo">
+
+                    <a  href="Default.aspx">
+                       <img src="../Template/images/logo.png" alt="">
+                    </a>
+                    
+                </div>
+
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="Default.aspx">Ana Sayfa</a>
+                        </li>
+                        <li>
+                            <a href="Menu.aspx">Menü</a>
+                        </li>
+                        <li>
+                            <a href="About.aspx">Hakkımızda</a>
+                        </li>
+                        <li>
+                            <a href="Rezervasyon.aspx">Rezervasyon</a>
+                        </li>
+                        <li>
+                            <a href="Yorumlar.aspx">Yorumlar</a>
+                        </li>
+
+                        <li>
+                            <a href="Tarifler.aspx">Tarifler</a>
+                        </li>
+                    </ul>
+                    <div class="login-signup">
+                        <<asp:LinkButton ID="LinkButton1" runat="server" OnClick="lblRegisterOrProfile_Click" CausesValidation="false">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                        </asp:LinkButton>
+                       
+                       
+                           
+                            <a href="Cart.aspx"> <i  class="fa fa-shopping-cart"></i> <span class="badge rounded-pill bg-warning  mb-2"><% Response.Write(Session["cartCount"]); %></span></a>
+                     
+                        <asp:LinkButton ID="LinkButton2" runat="server" CssClass="order_online" Text="Giriş/Çıkış" CausesValidation="false"
+                            OnClick="lbLoginOrLogout_Click"></asp:LinkButton>
+                    </div>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="login-signup">
+                    <%--<button>
+                  <i class="fa fa-user"></i>
+                </button>--%>
+                    <asp:LinkButton ID="lblRegisterOrProfile" runat="server" OnClick="lblRegisterOrProfile_Click" CausesValidation="false">
+                    <i class="fas fa-user" aria-hidden="true"></i>
+                    </asp:LinkButton>
+                   
+                    
+                         <a href="Cart.aspx"> <i  class="fa fa-shopping-cart"></i> <span class="badge rounded-pill bg-warning  mb-2"><% Response.Write(Session["cartCount"]); %></span></a>
+
+
+
+
+
+              
+
+                </div>
+                <div class="sag_ust">
+                    <div class="user_option">
+                        <%-- <a href="" class="order_online">
+                        Sipariş Ver
+                      </a>--%>
+                        <asp:LinkButton ID="lbLoginOrLogout" runat="server" CssClass="order_online" CausesValidation="false"
+                            OnClick="lbLoginOrLogout_Click"></asp:LinkButton>
+                    </div>
+                </div>
+
+                <div class="hamburger">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </header>
+
+        <asp:Panel ID="pnlHomeUC" runat="server"></asp:Panel>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <!-- footer section -->
+        <footer class="footer_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-col">
+                        <div class="footer_contact">
+                            <h4>iletişim
+                            </h4>
+                            <div class="contact_link_box">
+                                <a target="_blank" href="https://www.google.com/maps/dir//Egeboyu+Sitesi+Abdurrahmangazi+Mh,+Sevenler+Cd.+B+blok+:No:29+34887+Sancaktepe%2Fİstanbul/@40.9910931,29.2277757,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14cacfd9faca7d5b:0x4e6711b3fe29151f!2m2!1d29.2277757!2d40.9910931">
+                                    <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                    <span>konum
+                                    </span>
+                                </a>
+                                <a href="">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    <span>Telefon Et 05388320126
+                                    </span>
+                                </a>
+                                <a href="">
+                                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                                    <span>ceka@gmail.com
+                 
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-col">
+                        <div class="footer_detail">
+                            <a href="" class="footer-logo">ceka
+                            </a>
+                            <p>
+                                Sosyal Medya Hesaplarımız...
+                            </p>
+                            <div class="footer_social">
+                                <a href="">
+                                    <i class="fab fa-facebook" aria-hidden="true"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-twitter" aria-hidden="true"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin" aria-hidden="true"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-pinterest" aria-hidden="true"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-col">
+                        <h4>Açık Saatler
+                        </h4>
+                        <p>
+                            Hergün
+                        </p>
+                        <p>
+                            Sabah 09.00  - Gece 01.00 
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-info">
+                    <p>
+                        &copy; <span id="displayYear"></span>Tüm Hakları Saklıdır
+          >cemkara</a><br>
+                        <br>
+                        
+                    </p>
+                </div>
+            </div>
+        </footer>
+        <!-- footer section -->
+
+    </form>
+
+    <%--<script src="../Template/js/jquery-3.4.1.min.js"></script>--%>
+
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+
+    <script src="../Template/js/bootstrap.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+    </script>
+
+    <script src="https://unpkg.com/isotope-layout@3.0.4/dist/isotope.pkgd.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+
+    <script src="../Template/js/custom.js"></script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+    </script>
+
+
+    <script>
+        hamburger = document.querySelector(".hamburger");
+        nav = document.querySelector("nav");
+        hamburger.onclick = function () {
+            nav.classList.toggle("active");
+        }
+    </script>
+
+</body>
+</html>

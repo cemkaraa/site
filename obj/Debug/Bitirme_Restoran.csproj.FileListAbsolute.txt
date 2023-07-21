@@ -1,0 +1,118 @@
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.dll.config
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.pdb
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.exe
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.exe.config
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.rsp
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.exe
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.exe.config
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.rsp
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.AppContext.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Console.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Net.Http.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.exe
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.exe.config
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.rsp
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.AssemblyReference.cache
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.CopyComplete
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.dll
+C:\Users\Cem\source\repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.pdb
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.dll.config
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\Bitirme_Restoran.pdb
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.exe
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.exe.config
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csc.rsp
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.exe
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.exe.config
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\csi.rsp
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.AppContext.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Collections.Immutable.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Console.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Globalization.Calendars.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.Compression.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.FileSystem.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Net.Http.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Net.Sockets.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Reflection.Metadata.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.ValueTuple.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XPath.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.exe
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.exe.config
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\vbc.rsp
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\VBCSCompiler.exe
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\roslyn\VBCSCompiler.exe.config
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.AssemblyReference.cache
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.CoreCompileInputs.cache
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.csproj.CopyComplete
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.dll
+E:\Source Repos\Bitirme_Restoran\Bitirme_Restoran\obj\Debug\Bitirme_Restoran.pdb
